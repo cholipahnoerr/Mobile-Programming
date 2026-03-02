@@ -1,1 +1,4 @@
-# Mobile-Programming-Tugas-2
+# Mobile-Programming
+
+## Cholipah Noer Amanah
+## 5025231317
