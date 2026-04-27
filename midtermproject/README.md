@@ -157,9 +157,3 @@ These notes are based on the current code in this repository:
 - Backup is triggered automatically after add/update, not from a separate backup button
 - Deleting a transaction does not currently trigger a cloud delete
 - The app is effectively Android-focused in practice because the active implementation uses Android-specific notification and image-picker flows
-- `firebase_options.dart` throws for iOS, so iOS is not configured in this project
-
-
-## Demo
-
-[Demo Video](https://drive.google.com/drive/folders/1mfSx4y6yDaZRsxff_1EhluF3xDdOYfEh?usp=sharing)
