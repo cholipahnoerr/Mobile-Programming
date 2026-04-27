@@ -1,6 +1,7 @@
 # midtermproject
 
 Expenses Tracker Project
+[Demo Video](https://drive.google.com/drive/folders/1mfSx4y6yDaZRsxff_1EhluF3xDdOYfEh?usp=sharing) 
 
 ## Getting Started
 
