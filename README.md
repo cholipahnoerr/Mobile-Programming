@@ -11,3 +11,4 @@
 ## 3. Tugas 3: [Flutter Widget Architecture Analysis](https://github.com/cholipahnoerr/Mobile-Programming/blob/main/tugas3.md)
 ## 4. Tugas 4: [CRUD Local Database Isar](https://github.com/cholipahnoerr/Mobile-Programming/tree/main/tugas4)
 ## 5. Midterm Project: [Expenses Tracker](https://github.com/cholipahnoerr/Mobile-Programming/tree/main/midtermproject)
+## 6. Tugas 5: [Mango Detector](https://github.com/cholipahnoerr/Mobile-Programming/tree/main/mango_detector)
