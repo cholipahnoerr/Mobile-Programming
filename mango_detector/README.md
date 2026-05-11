@@ -137,12 +137,4 @@ Semua permission sudah dikonfigurasi di `AndroidManifest.xml`.
 - `assets/model_mangga.tflite` - Model TFLite terlatih
 _- `assets/labels.txt` - Daftar label kelas deteksi_
 
-## 📞 Support & Development
-
-Untuk pengembangan lebih lanjut:
-1. Update model dengan dataset baru
-2. Tambah kategori deteksi lebih banyak
-3. Integrasi cloud API untuk backup data
-4. Implementasi image history/logging
-
 
